@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PizzaTop</string>
+    <string name="Menu">Меню</string>
+    <string name="Ac">Профиль</string>
+    <string name="Kor">Корзина</string>
+    <string name="qr" />
+    <string name="_5">От 5$</string>
+    <string name="todo">TODO</string>
+    <string name="Moscow">Москва</string>
+    <string name="пицца">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desert">Десерты</string>
+    <string name="drink">Напитки</string>
+    <string-array name="city">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Екатеринбург</item>
+    </string-array>
+</resources>
